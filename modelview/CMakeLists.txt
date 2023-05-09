@@ -1,0 +1,3 @@
+add_subdirectory(filesystem)
+add_subdirectory(multiview)
+add_subdirectory(playlists)
